@@ -9,11 +9,11 @@
   <img src="https://img.shields.io/badge/𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴-black?logo=youtube" width="150">
 
 
-[![Stars](https://img.shields.io/github/stars/8769ANURAG/Anurag-Extra-Features?style=flat-square&color=green)](https://github.com/8769ANURAG/Anurag-Extra-Features/stargazers)
-[![Forks](https://img.shields.io/github/forks/8769ANURAG/Anurag-Extra-Features?style=flat-square&color=blue)](https://github.com/8769ANURAG/Anurag-Extra-Features/fork)
-[![Size](https://img.shields.io/github/repo-size/8769ANURAG/Anurag-Extra-Features?style=flat-square&color=red)](https://github.com/8769ANURAG/Anurag-Extra-Features)   
-[![Open Source happy ](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/8769ANURAG/Anurag-Extra-Features)   
-[![Contributors](https://img.shields.io/github/contributors/8769ANURAG/Anurag-Extra-Features?style=flat-square&color=green)](https://github.com/8769ANURAG/Anurag-Extra-Features/graphs/contributors)
+[![Stars](https://img.shields.io/github/stars/AM-ROBOTS/Anurag-Extra-Features?style=flat-square&color=green)](https://github.com/AM-ROBOTS/Anurag-Extra-Features/stargazers)
+[![Forks](https://img.shields.io/github/forks/AM-ROBOTS/Anurag-Extra-Features?style=flat-square&color=blue)](https://github.com/AM-ROBOTS/Anurag-Extra-Features/fork)
+[![Size](https://img.shields.io/github/repo-size/AM-ROBOTS/Anurag-Extra-Features?style=flat-square&color=red)](https://github.com/AM-ROBOTS/Anurag-Extra-Features)   
+[![Open Source happy ](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/AM-ROBOTS/Anurag-Extra-Features)   
+[![Contributors](https://img.shields.io/github/contributors/AM-ROBOTS/Anurag-Extra-Features?style=flat-square&color=green)](https://github.com/AM-ROBOTS/Anurag-Extra-Features/graphs/contributors)
 ## Features
 
 - [x] Auto Filter
@@ -60,7 +60,7 @@ You can deploy this bot anywhere.
 <summary>Deploy To Heroku</summary>
 <br>
 <p>
-<a href="https://heroku.com/deploy?template=https://github.com/8769ANURAG/Anurag-Extra-Features">
+<a href="https://heroku.com/deploy?template=https://github.com/AM-ROBOTS/Anurag-Extra-Features">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -72,7 +72,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/8769ANURAG/Anurag-Extra-Features
+git clone https://github.com/AM-ROBOTS/Anurag-Extra-Features
 # Install Packages
 pip3 install -r requirements.txt
 Edit info.py with variables as given below then run bot
@@ -111,5 +111,5 @@ python3 bot.py
 * /broadcast - to broadcast a message to all Anurag users
 ```
 
-<b>ᴅᴇᴠᴇʟᴏᴘᴇʀ ›› [𝓖𝓾𝓡𝓾](https://telegram.dog/AboutGuruB) | [ɪɴsᴛᴀɢʀᴀᴍ](https://www.instagram.com/anuragmaheshwari_official/) | [ɢɪᴛʜᴜʙ](GitHub.com/8769ANURAG)</b>                                                                                                                                                                                    
+<b>ᴅᴇᴠᴇʟᴏᴘᴇʀ ›› [𝓖𝓾𝓡𝓾](https://telegram.dog/sources_cods) | [ɪɴsᴛᴀɢʀᴀᴍ](https://www.instagram.com/anuragmaheshwari_official/) | [ɢɪᴛʜᴜʙ](GitHub.com/8769ANURAG)</b>                                                                                                                                                                                    
 <b>ᴄʜᴀɴɴᴇʟ ›› [ᎯℕUℛᎯᎶ](https://t.me/MOVIES_ZILAA)</b>
